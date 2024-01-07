@@ -64,5 +64,8 @@
       "perMachine": true,
       "allowToChangeInstallationDirectory": true
     }
+  },
+  "devDependencies": {
+    "electron-builder": "^24.9.1"
   }
 }
